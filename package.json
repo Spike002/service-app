@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Spike002/service-app#readme",
   "dependencies": {
     "cookie-session": "^1.3.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.7.4",
     "nodemon": "^1.19.3",
     "passport": "^0.4.0",
